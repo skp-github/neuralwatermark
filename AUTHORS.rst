@@ -6,6 +6,7 @@ Development Lead
 ----------------
 
 * doodle <linkme06@gmail.com>
+* simon <simon_graf2002@gmx.de>
 
 Contributors
 ------------

@@ -11,3 +11,5 @@ grip
 
 pytest
 pytest-runner
+
+torch
