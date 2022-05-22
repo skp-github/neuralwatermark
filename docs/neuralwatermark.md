@@ -1,4 +1,0 @@
- 
-# neuralwatermark module
-
-::: neuralwatermark.neuralwatermark
